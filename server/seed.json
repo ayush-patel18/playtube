@@ -1,0 +1,294 @@
+{
+ "channels": [
+  {
+   "id": 0,
+   "name": "Pixel Kitchen",
+   "subscribers": "2.4M",
+   "hue": 10
+  },
+  {
+   "id": 1,
+   "name": "Byte Size",
+   "subscribers": "1.1M",
+   "hue": 210
+  },
+  {
+   "id": 2,
+   "name": "Trail & Tide",
+   "subscribers": "860K",
+   "hue": 150
+  },
+  {
+   "id": 3,
+   "name": "Neon Arcade",
+   "subscribers": "3.7M",
+   "hue": 290
+  },
+  {
+   "id": 4,
+   "name": "Loop Theory",
+   "subscribers": "512K",
+   "hue": 40
+  },
+  {
+   "id": 5,
+   "name": "Deep Field",
+   "subscribers": "1.9M",
+   "hue": 250
+  },
+  {
+   "id": 6,
+   "name": "Iron Habit",
+   "subscribers": "740K",
+   "hue": 0
+  },
+  {
+   "id": 7,
+   "name": "Night Owl Radio",
+   "subscribers": "4.2M",
+   "hue": 320
+  }
+ ],
+ "videos": [
+  {
+   "id": 0,
+   "title": "Sourdough in 24 Hours: The No-Knead Method",
+   "channel_id": 0,
+   "category": "Cooking",
+   "views": 1200000,
+   "days": 3,
+   "duration": "12:04",
+   "emoji": "🍞"
+  },
+  {
+   "id": 1,
+   "title": "I Built a Keyboard From Scratch (Full Build)",
+   "channel_id": 1,
+   "category": "Tech",
+   "views": 842000,
+   "days": 7,
+   "duration": "21:37",
+   "emoji": "⌨️"
+  },
+  {
+   "id": 2,
+   "title": "48 Hours Hiking the Coastal Ridge Alone",
+   "channel_id": 2,
+   "category": "Travel",
+   "views": 2100000,
+   "days": 14,
+   "duration": "18:22",
+   "emoji": "🏔️"
+  },
+  {
+   "id": 3,
+   "title": "Speedrunning Every Level Blindfolded",
+   "channel_id": 3,
+   "category": "Gaming",
+   "views": 5600000,
+   "days": 5,
+   "duration": "34:10",
+   "emoji": "🎮"
+  },
+  {
+   "id": 4,
+   "title": "Lo-fi Beats to Debug Your Code To",
+   "channel_id": 7,
+   "category": "Music",
+   "views": 12000000,
+   "days": 365,
+   "duration": "3:02:11",
+   "emoji": "🎧"
+  },
+  {
+   "id": 5,
+   "title": "How Black Holes Actually Evaporate",
+   "channel_id": 5,
+   "category": "Science",
+   "views": 3300000,
+   "days": 120,
+   "duration": "15:48",
+   "emoji": "🌌"
+  },
+  {
+   "id": 6,
+   "title": "30-Minute Full Body Workout, No Equipment",
+   "channel_id": 6,
+   "category": "Fitness",
+   "views": 980000,
+   "days": 6,
+   "duration": "30:00",
+   "emoji": "💪"
+  },
+  {
+   "id": 7,
+   "title": "Ramen From Scratch: Broth, Noodles, Tare",
+   "channel_id": 0,
+   "category": "Cooking",
+   "views": 1700000,
+   "days": 60,
+   "duration": "24:15",
+   "emoji": "🍜"
+  },
+  {
+   "id": 8,
+   "title": "The Truth About Modern Web Frameworks",
+   "channel_id": 1,
+   "category": "Tech",
+   "views": 1400000,
+   "days": 21,
+   "duration": "16:52",
+   "emoji": "🕸️"
+  },
+  {
+   "id": 9,
+   "title": "Sailing Across the Bay in a Storm",
+   "channel_id": 2,
+   "category": "Travel",
+   "views": 604000,
+   "days": 240,
+   "duration": "27:33",
+   "emoji": "⛵"
+  },
+  {
+   "id": 10,
+   "title": "Retro Arcade Marathon: 12 Hours Live",
+   "channel_id": 3,
+   "category": "Live",
+   "views": 214000,
+   "days": 2,
+   "duration": "12:00:04",
+   "emoji": "🕹️"
+  },
+  {
+   "id": 11,
+   "title": "Why Every Loop Should Have an Invariant",
+   "channel_id": 4,
+   "category": "Tech",
+   "views": 198000,
+   "days": 90,
+   "duration": "19:26",
+   "emoji": "🔁"
+  },
+  {
+   "id": 12,
+   "title": "Midnight Jazz Session: Piano and Rain",
+   "channel_id": 7,
+   "category": "Music",
+   "views": 7800000,
+   "days": 730,
+   "duration": "1:45:20",
+   "emoji": "🎹"
+  },
+  {
+   "id": 13,
+   "title": "A Tour of the Deepest Places on Earth",
+   "channel_id": 5,
+   "category": "Science",
+   "views": 4900000,
+   "days": 365,
+   "duration": "22:09",
+   "emoji": "🌊"
+  },
+  {
+   "id": 14,
+   "title": "Meal Prep for the Entire Week in 1 Hour",
+   "channel_id": 0,
+   "category": "Cooking",
+   "views": 2800000,
+   "days": 270,
+   "duration": "14:41",
+   "emoji": "🥗"
+  },
+  {
+   "id": 15,
+   "title": "Boss Fight Analysis: What Makes It Fair?",
+   "channel_id": 3,
+   "category": "Gaming",
+   "views": 1100000,
+   "days": 14,
+   "duration": "26:18",
+   "emoji": "⚔️"
+  },
+  {
+   "id": 16,
+   "title": "Kettlebell Basics That Fixed My Back",
+   "channel_id": 6,
+   "category": "Fitness",
+   "views": 1500000,
+   "days": 150,
+   "duration": "11:57",
+   "emoji": "🏋️"
+  },
+  {
+   "id": 17,
+   "title": "Solo Train Trip Through the Alps",
+   "channel_id": 2,
+   "category": "Travel",
+   "views": 3900000,
+   "days": 365,
+   "duration": "32:44",
+   "emoji": "🚆"
+  },
+  {
+   "id": 18,
+   "title": "Synth Cover: Late Night Drive",
+   "channel_id": 7,
+   "category": "Music",
+   "views": 22000000,
+   "days": 1095,
+   "duration": "4:18",
+   "emoji": "🎹"
+  },
+  {
+   "id": 19,
+   "title": "Building a Tiny Compiler in One Evening",
+   "channel_id": 4,
+   "category": "Tech",
+   "views": 430000,
+   "days": 42,
+   "duration": "41:05",
+   "emoji": "🛠️"
+  },
+  {
+   "id": 20,
+   "title": "Live: Space Launch Coverage and Q&A",
+   "channel_id": 5,
+   "category": "Live",
+   "views": 88000,
+   "days": 1,
+   "duration": "2:31:47",
+   "emoji": "🚀"
+  },
+  {
+   "id": 21,
+   "title": "Homemade Pasta Every Italian Would Approve",
+   "channel_id": 0,
+   "category": "Cooking",
+   "views": 6200000,
+   "days": 730,
+   "duration": "17:30",
+   "emoji": "🍝"
+  },
+  {
+   "id": 22,
+   "title": "Cozy Farm Sim: Building My Dream Village",
+   "channel_id": 3,
+   "category": "Gaming",
+   "views": 2600000,
+   "days": 4,
+   "duration": "38:52",
+   "emoji": "🌾"
+  },
+  {
+   "id": 23,
+   "title": "Morning Mobility Routine in 10 Minutes",
+   "channel_id": 6,
+   "category": "Fitness",
+   "views": 3100000,
+   "days": 365,
+   "duration": "10:12",
+   "emoji": "🧘"
+  }
+ ]
+}
