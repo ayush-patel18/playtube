@@ -1,6 +1,6 @@
 // Public catalog: GET /api/bootstrap, /api/videos, /api/videos/:id
 const router = require('express').Router();
-const db = require('../db');CDATASection.apply
+const db = require('../db');
 
 const SELECT = `SELECT v.id, v.title t, v.channel_id c, v.category cat, v.views, v.duration d, v.emoji e, v.published_at FROM videos v`;
 
